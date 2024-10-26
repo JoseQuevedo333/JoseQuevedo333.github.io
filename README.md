@@ -1,1 +1,5 @@
-# JoseQuevedo333.github.io
+# Portfolio
+
+## Links
+
+- [Curriculum](https://JoseQuevedo333.github.io/)
