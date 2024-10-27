@@ -8,7 +8,6 @@ body {
   background-color: #e2dcde;
   color: #ece4b7 !important;
   font-family: Raleway;
-  text-justify: left;
 }
 
 li {
@@ -29,8 +28,6 @@ li {
 }
 
 .card-body {
-  display: flexbox !important;
-  flex-wrap: wrap;
   justify-content: space-evenly;
 }
 
