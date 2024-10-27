@@ -1,3 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
 body {
-  background-color: rgb(157, 255, 0);
+  background-color: #e2dcde;
+  color: #ece4b7 !important;
+  font-family: Raleway;
+  text-justify: left;
+}
+
+li {
+  list-style-type: none;
+  text-align: justify;
+}
+
+.light-color {
+  background-color: #a8bca1;
+}
+
+.light-blue {
+  background-color: #0f4c5c;
+}
+
+.light-brown {
+  background-color: #f2bb05;
+}
+
+.card-body {
+  display: flexbox !important;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card-text {
+  display: flex;
 }
