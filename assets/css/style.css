@@ -27,10 +27,17 @@ li {
   background-color: #f2bb05;
 }
 
-.card-body {
-  justify-content: space-evenly;
+.card-b {
+  display: flex;
+  flex-wrap: wrap !important;
+  text-align: left;
+  align-items: center;
+  width: 100%;
 }
 
-.card-text {
+.card-be {
   display: flex;
+  flex-wrap: wrap !important;
+  justify-content: center;
+  background-color: #e2dcde;
 }
